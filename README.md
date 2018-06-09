@@ -1,7 +1,7 @@
 # FeedMe
 ## WELCOME HERE!
 This is a simple plugin and easy to set your food in game.</br >
-Just feed yourself by command.
+Just feed yourself by typing the command.
 
 ---
 
