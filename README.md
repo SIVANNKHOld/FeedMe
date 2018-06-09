@@ -14,7 +14,9 @@ Just feed yourself by typing the command.
 
 ## FEATURES
 * Feed fast
+* Easy feed
 * Don't need any food
+* Doesn't take a long time
 
 ---
 
