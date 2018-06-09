@@ -1,0 +1,10 @@
+name: FeedMe
+main: FeedMe\Main
+author: SIVANNKH
+version: 1.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+
+commands:
+ feedme:
+  description: "FeedMe by SIVANNKH"
+  permission: feedme.command
