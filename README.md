@@ -1,7 +1,7 @@
 # FeedMe
 ## WELCOME HERE!
 This is a simple plugin and easy to set your food in game.</br >
-Just type /healme and your health will be full.
+Just just feed yourself by command.
 
 ---
 
