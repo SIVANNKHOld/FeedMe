@@ -23,7 +23,7 @@ class Main extends PluginBase{
 					
 					if($sender->hasPermission("feedme.command")){
 						$sender->setFood(20);
-						$sender->sendMessage("Your food has set!");
+						$sender->sendMessage("You have been fed!");
 					}
 					
 				}
