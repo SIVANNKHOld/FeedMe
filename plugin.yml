@@ -2,7 +2,7 @@ name: FeedMe
 main: FeedMe\Main
 author: SIVANNKH
 version: 1.0
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+api: 3.0.0
 
 commands:
  feedme:
