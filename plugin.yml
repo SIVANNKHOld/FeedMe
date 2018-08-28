@@ -6,5 +6,5 @@ api: 3.0.0
 
 commands:
  feedme:
-  description: "Heal yourself"
+  description: "Feed yourself"
   permission: feedme.command
